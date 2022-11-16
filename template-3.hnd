@@ -1,0 +1,6 @@
+{{#each students}}
+{{name}}
+{{#with address}}
+{{street}} {{city}}
+{{/with}}
+{{/each}}

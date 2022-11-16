@@ -1,0 +1,6 @@
+{{#each students}}
+{{name}}
+{{#with address}}
+{{>address address=.}}
+{{/with}}
+{{/each}}

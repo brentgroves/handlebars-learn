@@ -1,0 +1,3 @@
+{{#each students}}
+{{name}}
+{{/each}}

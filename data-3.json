@@ -1,0 +1,15 @@
+{
+  "students": [{
+      "name": "John Lennon",
+      "address": {
+          "street": "Abbey Road 23",
+          "city": "London"
+      }
+  }, {
+      "name": "Eddie Vedder",
+      "address": {
+          "street": "Jeremy's street",
+          "city": "Seatle"
+      }
+  }]
+}
